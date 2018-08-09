@@ -6,6 +6,6 @@ import {Goal}from './goal'
   templateUrl: './app.component.html'
 })
 export class AppComponent {
-  goals =[
+  
 
 }
